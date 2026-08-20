@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1 | [`v1`](https://github.com/chainguard-actions/chrislennon-action-aws-cli/tree/v1) | — |
+| v1 | [`v1`](https://github.com/chainguard-actions/chrislennon-action-aws-cli/tree/v1) | [`e663d55`](https://github.com/chrislennon/action-aws-cli/commit/e663d55e90eb66d8501f132d6aa81faccb407f4b) |
 
 ## Privacy
 
